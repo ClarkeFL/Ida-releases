@@ -1,6 +1,6 @@
 # Ida downloads
 
-Ida was called Ida up to 0.1.80.
+Ida was called IDEAI up to 0.1.80.
 
 Binaries only. This repo exists so Ida's in-app updater and the installer can
 fetch releases without a GitHub login; the source lives in a private repo and is
